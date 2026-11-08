@@ -62,6 +62,4 @@ uv run python analyse_dvf.py
 
 ## Mes réseaux sociaux
 
-## Mes réseaux sociaux
-
 Bright AMOUZOU · [LinkedIn](https://www.linkedin.com/in/binida-bright-amouzou-449a89217/) · brightamouzou@gmail.com
