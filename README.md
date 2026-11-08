@@ -44,7 +44,6 @@ uv run python analyse_dvf.py
 
 `uv run` installe automatiquement les dépendances listées dans `pyproject.toml` (pandas, SciPy, Matplotlib).
 
-Le script télécharge les données (environ 60 Mo) dans `data/`, affiche les résultats et enregistre les graphiques dans `figures/`.
 
 ## Structure
 
@@ -61,6 +60,8 @@ Le script télécharge les données (environ 60 Mo) dans `data/`, affiche les r�
 - Pipeline de données sur Databricks, à l'échelle de la France entière
 - Modèle de prédiction du prix au m²
 
-## Auteur
+## Mes réseaux sociaux
 
-Bright AMOUZOU · [LinkedIn] · brightamouzou@gmail.com
+## Mes réseaux sociaux
+
+Bright AMOUZOU · [LinkedIn](https://www.linkedin.com/in/binida-bright-amouzou-449a89217/) · brightamouzou@gmail.com
