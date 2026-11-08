@@ -1,0 +1,9 @@
+[project]
+name = "marche-immobilier-idf"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.11.2",
+    "pandas>=3.1.1",
+    "scipy>=1.18.1",
+]
